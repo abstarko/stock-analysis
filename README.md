@@ -13,6 +13,8 @@ Steve wants to go from the dozen stocks we originally analyzed to analyzing an e
 
 ## 2017 VS 2018
 When comparing 2017 vs 2018 we can see that almost all of the stocks declined in volume, while only very few produced a positive ROI. When we refactor the code, it runs faster than the original code which makes it more efficient. I would suggest for Steve to have his parents look at investing in a different industry. 
+![VBA_Challenge_2017.png](resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018.png](resources/VBA_Challenge_2018.png)
 
 
 ## Code Refactoring
