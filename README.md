@@ -1,11 +1,11 @@
 # STOCK ANALYSIS 
 
-## OVERVIEW OF PROJECT
+## Overview of Project
 
 Steve is helping his parents with investing into stocks. He wants an analysis of green stock to see if it is even worth them investing. I did this while using VBA in Excel to find the stocks volume and annual return. That way i was able to use my findings to give Steve's parents the best investment options. 
 
 
-### PURPOSE 
+### Purpose
 
 Steve wants to go from the dozen stocks we originally analyzed to analyzing an entire stock market for the last few years. In order to look at thousands of stocks we need to refactor our code to make our VBA script run faster, making the analysis more efficient. 
 
